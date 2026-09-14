@@ -12,7 +12,7 @@
 
 * Inspo Look of how it would look like *
 
-![alt text](images/inspo.png)
+![Inspo Look](Images/inspo.png)
 
 ## Hardware ## 
 ### for now i have finalized the hardware list and it is available in Readme.md ### 

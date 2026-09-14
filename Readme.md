@@ -11,7 +11,7 @@
 - **Power switch** SPDT slide switch
 
 ## Inspo Look ##
-![alt text](images/inspo.png)
+![Inspo Look](images/inspo.png)
 
 ## Approximate BOM : ##
 
