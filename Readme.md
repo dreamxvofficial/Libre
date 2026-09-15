@@ -31,3 +31,8 @@
 
 ### ** Note: The pricing is approximate and can vary until final schematic and pcb ** ###
 
+## Schematic ##
+### So i used AI for planing the connections of schematics and it just made me wanna die so yeah i dont know what to write more ###
+
+![Schematic](Images/Schematic.png)
+

@@ -22,3 +22,12 @@
 ## Time spent this session: 1 hour ##
 
 ---
+
+## Day 2 - 15 sept 26 ##
+## Session-1 ##
+### So In this session I will be working on building schematic for Libre. So i used AI to help me make schematics and find sch and mod files for symbols and footprint. SO it took so much time and effort of mine to check and connect each gpio and pin properly. I also added micro sd card slot and all. Now going for lunch break.### 
+
+![Schematic](Images/Schematic.png)
+![Amazon Screen](Images/E-ink.png)
+
+## Time spent this session: 1 hour 40 mins  ##
