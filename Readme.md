@@ -36,3 +36,8 @@
 
 ![Schematic](Images/Schematic.png)
 
+## PCB ## 
+### I just wanna give up mannnnnnnnnnn! >>>>>>>>>>3 It just got worse and worse for me but here i present you my PCB ###
+
+![PCB](Images/pcb.png)
+![3D PCB](Images/3d-pcb.png)

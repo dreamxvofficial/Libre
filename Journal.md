@@ -31,3 +31,12 @@
 ![Amazon Screen](Images/E-ink.png)
 
 ## Time spent this session: 1 hour 40 mins  ##
+
+## Day 2 - 15 sept 26 ##
+## Session-1 ##
+### So In this session I will be working on PCB design for Libre. It was hell lot worse then schematic to find step models and designing PCB according to display was nightmare. But finally I made it!... I just want to thank god to give me strength from making this pcb as i would have left the chat gng :3 .... Here i present you PCB### 
+
+![PCB](Images/pcb.png)
+![3D PCB](Images/3d-pcb.png)
+
+## Time spent this session: 2 Hours ##
