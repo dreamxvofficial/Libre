@@ -33,10 +33,35 @@
 ## Time spent this session: 1 hour 40 mins  ##
 
 ## Day 2 - 15 sept 26 ##
-## Session-1 ##
-### So In this session I will be working on PCB design for Libre. It was hell lot worse then schematic to find step models and designing PCB according to display was nightmare. But finally I made it!... I just want to thank god to give me strength from making this pcb as i would have left the chat gng :3 .... Here i present you PCB### 
-
+## Session-2 ##
+### So In this session I will be working on PCB design for Libre. It was hell lot worse then schematic to find step models and designing PCB according to display was nightmare. But finally I made it!... I just want to thank god to give me strength from making this pcb as i would have left the chat gng :3 .... Here i present you PCB ###
 ![PCB](Images/pcb.png)
 ![3D PCB](Images/3d-pcb.png)
 
 ## Time spent this session: 2 Hours ##
+
+## Day 2 - 15 sept 26 ##
+## Session-3 ##
+### So In this session I will be working on CAD design for Libre. It was the biggest mistake i made ever and because of it i had to make button and slider buttons extras so that it could be outside the frame to use but it turned out good for reading so now i present you CAD Design ### 
+
+![CAD](Images/CAD.png)
+
+## Time spent this session: 1 Hour 56 Minutes ##
+
+## Day 3 - 16 sept 26 ##
+## Session-1 ##
+### So In this session made final touches of cad design for button and it turned out good so here is the extra part for mounting buttons and slider ### 
+
+![Button Mount](Images/mount-button.png)
+![Slider Mount](Images/mount-slider.png)
+
+## Time spent this session: 12 Minutes ##
+
+## Day 3 - 16 sept 26 ##
+## Session-2 ##
+### So In this session i wrote the firmware for Libre. So i wrote an os type system for it to select the pdf of the book in and read it . It was hell lot of fun and also challenging to write it as it was my first time writing firmware for an e-reader. But due to my C++ skill i coded it a lot faster. Butt i want to add more featuresas they are left. ### 
+
+![code](Images/code.png)
+
+
+## Time spent this session: 43 Minutes ##
