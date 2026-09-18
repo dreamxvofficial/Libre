@@ -65,3 +65,12 @@
 
 
 ## Time spent this session: 43 Minutes ##
+
+## Day 4 - 17 sept 26 ##
+## Session-1 ##
+### So In this session i remade the CAD as there were problems with previous CAD and had to make buttons caps as another thing but this time i fixed the pcb and made nice looking CAD and this would be the last journaling i think ##
+
+![PCB](NewCAD/code.png)
+
+
+## Time spent this session: 1hour 34 Minutes ##

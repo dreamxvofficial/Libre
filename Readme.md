@@ -32,20 +32,19 @@
 ### ** Note: The pricing is approximate and can vary until final schematic and pcb ** ###
 
 ## Schematic ##
-### So i used AI for planing the connections of schematics and it just made me wanna die so yeah i dont know what to write more ###
+### So i used AI for planing the connections of schematics and it just made me wanna die so yeah i dont know what to write more but i have connected the screen mcu micro sd and buttons together i dont know how but yes i have connected ###
 
 ![Schematic](Images/Schematic.png)
 
 ## PCB ## 
-### I just wanna give up mannnnnnnnnnn! >>>>>>>>>>3 It just got worse and worse for me but here i present you my PCB ###
-
+### I just wanna give up mannnnnnnnnnn! >>>>>>>>>>3 I had to change the whole design as PCB was not as size of CAD so here is the new PCB with MCU ESP 32, 5 buttons 1 slider button and Micro SD Card ##
 ![PCB](Images/pcb.png)
 ![3D PCB](Images/3d-pcb.png)
 
 ## CAD ##
-### CAD design for Libre. It was the biggest mistake i made ever and because of it i had to make button and slider buttons extras so that it could be outside the frame to use but it turned out good for reading so now i present you CAD Design ###
+### CAD design for Libre. It is 130 mm height and 78.5 mm width with a space for PCB, Buttons and E-Ink Display ##
 
-![CAD](Images/CAD.png)
+![NewCAD](NewCAD/code.png)
 
 ## Final BOM ##
 
