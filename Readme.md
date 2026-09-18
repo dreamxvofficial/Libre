@@ -15,21 +15,21 @@
 
 ## Approximate BOM : ##
 
-| Part | Specification | Qty |
-|---|---|---:|
-| E-Ink Display | Waveshare 4.2" 400×300 B/W, SPI | 1 |
-| Microcontroller | ESP32-S3-WROOM-1-N16R8 | 1 |
-| Storage | 16–32GB MicroSD Card + Socket | 1 |
-| Battery | 3.7V 2000mAh Li-Po | 1 |
-| Charging | USB-C Li-Po Charging Circuit | 1 |
-| Power Switch | SPDT ON/OFF Slide Switch | 1 |
-| Navigation | 6×6mm Tactile Buttons | 5 |
-| PCB | Custom 2-Layer PCB | 1 |
-| Enclosure | Custom 3D-Printed Case | 1 |
+| Part            | Specification                   | Qty |
+| --------------- | ------------------------------- | --: |
+| E-Ink Display   | Waveshare 4.2" 400×300 B/W, SPI |   1 |
+| Microcontroller | ESP32-S3-DevKitC-1-N16R8V       |   1 |
+| Storage         | 16–32GB MicroSD Card + Socket   |   1 |
+| Battery         | 3.7V 3000mAh Li-Po              |   1 |
+| Charging        | MCP73831 Li-Po Charging Circuit |   1 |
+| Power Switch    | SPDT ON/OFF Slide Switch        |   1 |
+| Navigation      | 6×6mm SMD Tactile Buttons       |   5 |
+| PCB             | Custom 2-Layer PCB              |   1 |
+| Enclosure       | Custom 3D-Printed Case          |   1 |
 
-## ** Approximate BOM ~ 70 to 90 $ or ~7000 to 8500 INR ** ##
 
-### ** Note: The pricing is approximate and can vary until final schematic and pcb ** ###
+## ** Approximate BOM ~ $110 or ~₹10,500 INR ** ##
+
 
 ## Schematic ##
 ### So i used AI for planing the connections of schematics and it just made me wanna die so yeah i dont know what to write more but i have connected the screen mcu micro sd and buttons together i dont know how but yes i have connected ###
